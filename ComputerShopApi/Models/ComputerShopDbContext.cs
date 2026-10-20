@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 namespace ComputerShopApi.Models
 {
     public class ComputerShopDbContext : DbContext
