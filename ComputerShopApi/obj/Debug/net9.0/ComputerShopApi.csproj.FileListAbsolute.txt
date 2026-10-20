@@ -268,3 +268,12 @@ C:/Users/augusztinnv/Desktop/API/WebShop/ComputerShopApi/obj/Debug/net9.0/Comput
 /Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/obj/Debug/net9.0/ComputerShopApi.pdb
 /Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/obj/Debug/net9.0/ComputerShopApi.genruntimeconfig.cache
 /Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/obj/Debug/net9.0/ref/ComputerShopApi.dll
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.csproj.AssemblyReference.cache
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.AssemblyInfoInputs.cache
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.AssemblyInfo.cs
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.csproj.CoreCompileInputs.cache
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\augusztinnv\Desktop\API\WebShop\ComputerShopApi\obj\Debug\net9.0\ComputerShopApi.sourcelink.json

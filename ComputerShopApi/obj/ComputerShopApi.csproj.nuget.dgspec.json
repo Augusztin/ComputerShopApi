@@ -1,31 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/ComputerShopApi.csproj": {}
+    "C:\\Users\\augusztinnv\\Desktop\\API\\WebShop\\ComputerShopApi\\ComputerShopApi.csproj": {}
   },
   "projects": {
-    "/Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/ComputerShopApi.csproj": {
+    "C:\\Users\\augusztinnv\\Desktop\\API\\WebShop\\ComputerShopApi\\ComputerShopApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/ComputerShopApi.csproj",
+        "projectUniqueName": "C:\\Users\\augusztinnv\\Desktop\\API\\WebShop\\ComputerShopApi\\ComputerShopApi.csproj",
         "projectName": "ComputerShopApi",
-        "projectPath": "/Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/ComputerShopApi.csproj",
-        "packagesPath": "/Users/grafika1/.nuget/packages/",
-        "outputPath": "/Users/grafika1/ISKOLA/Backend/ComputerShop/ComputerShopApi/ComputerShopApi/obj/",
+        "projectPath": "C:\\Users\\augusztinnv\\Desktop\\API\\WebShop\\ComputerShopApi\\ComputerShopApi.csproj",
+        "packagesPath": "C:\\Users\\augusztinnv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augusztinnv\\Desktop\\API\\WebShop\\ComputerShopApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/grafika1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\augusztinnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
-            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -40,11 +44,10 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
-          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -77,20 +80,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

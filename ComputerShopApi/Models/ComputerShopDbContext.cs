@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System.Collections.Generic;
 namespace ComputerShopApi.Models
 {
     public class ComputerShopDbContext : DbContext
@@ -13,14 +13,8 @@ namespace ComputerShopApi.Models
 
         public DbSet<Osystem> Osystems { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            var conn = "server=localhost;database=computer;user=root;password=";
-            
-            optionsBuilder.UseMySql(conn, ServerVersion.AutoDetect(conn));
-        }
-        
         public DbSet<Computer> Computers { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -28,6 +22,7 @@ namespace ComputerShopApi.Models
             
             optionsBuilder.UseMySql(conn, ServerVersion.AutoDetect(conn));
         }
+       
 
     }
 }
